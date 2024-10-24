@@ -1,13 +1,18 @@
 # Nitro
-This is a demo work example from the Avada Vegan Store website, which has been developed with HTML, CSS, Bootstrap and Javascript.
+This is a demo work example from the Nitro website, which has been developed with HTML, CSS, Bootstrap and Javascript.
 
-![Alt text](https://github.com/user-attachments/assets/398e3d42-7086-4a77-b9ae-3bc0273f9a0f)
+![Alt text](https://github.com/user-attachments/assets/9dc039f0-e920-4f04-933b-c41065bf8f3d)
 
-![Alt text](https://github.com/user-attachments/assets/41fa9326-4d29-4e31-8613-5dec2434dfd4)
+
+![Alt text](https://github.com/user-attachments/assets/3fef6fa2-5ff2-44dc-ac16-f83388debc9f)
+
 
 - [Demo Project](https://rezageshaniweb.github.io/AvadaVeganStore/)
 
-- Developed by Reza Geshani
+- Developers 👨‍💻
+- [@RezaGeshaniWeb](https://github.com/RezaGeshaniWeb)
+- [@hamedmoradidev](https://github.com/hamedmoradidev)
+- [@alirezafrontend](https://github.com/alirezafrontend)
 
 - Created - 2024-10-12
 
