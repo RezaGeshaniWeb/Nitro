@@ -6,7 +6,7 @@
 ![Alt text](https://github.com/user-attachments/assets/3fef6fa2-5ff2-44dc-ac16-f83388debc9f)
 
 
-- [Demo Project](https://rezageshaniweb.github.io/AvadaVeganStore/)
+- [Demo Project](https://rezageshaniweb.github.io/Nitro/)
 
 
 - Developers 👨‍💻
